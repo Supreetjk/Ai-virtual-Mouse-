@@ -1,4 +1,4 @@
-# Ai-virtual-Mouse-
+# Ai-virtual-Mouse
 Ai virtual mouse using hand gestures
 🖱️ AI Virtual Mouse Using Hand Gestures
 
